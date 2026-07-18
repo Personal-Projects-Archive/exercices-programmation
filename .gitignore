@@ -1,0 +1,13 @@
+# Environnements Python
+__pycache__/
+*.pyc
+myenv/
+venv/
+
+# Binaires compilés C/C++
+*.exe
+*.out
+*.o
+
+# Fichiers d'éditeur
+.vscode/
